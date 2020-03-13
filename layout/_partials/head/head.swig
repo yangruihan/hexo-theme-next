@@ -59,3 +59,5 @@
 {%- endif %}
 
 {{ next_config() }}
+
+<script data-ad-client="ca-pub-2112623699045807" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
